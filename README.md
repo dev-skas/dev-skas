@@ -31,7 +31,7 @@
 <p align="left">I'm Syamjith Krishna<br><br>- 🔭 I’m working as a frontend developer.<br>- 📚 I'm currently learning Flutter.<br>- ⚡ In my free time I love solving leet code problems.</p>
 
 ###
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/syamjith?theme=light&font=Noto%20Sans%20Meetei%20Mayek)
 <h2 align="left">🛠 Language and tools</h2>
 
 ###
